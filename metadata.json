@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE Math 0580 Lesson Plan Generator",
+  "description": "Interactive Lesson Plan Generator for Cambridge IGCSE Mathematics (0580) Grade 10 tailored to Semesta School official template with 5E instructional model, multi-tier differentiation, and PDF/DOCX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
